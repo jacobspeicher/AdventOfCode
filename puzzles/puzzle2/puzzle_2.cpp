@@ -70,4 +70,6 @@ int main()
 	{
 		std::cout << combination[i] << "\n";
 	}
+
+	input_file.close();
 }
